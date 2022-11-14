@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.birlesh{
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    display: flex;
+    margin-top: -380px;
+}
+li{
+list-style: none;
+margin: 20px;
+font-weight: 800;
+color: white;
+}
+.div1{
+   display: flex;
+   justify-content: flex-end;
+}
+.farid{
+    width: 1400px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.first_h2{
+    padding-top: 5px;
+    margin-left: 9px;
+    color: white;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    width:100%;
+    height: 750px;
+    background-image: url(https://vastphotos.com/files/uploads/photos/10691/peaceful-water-landscape-photo-m.jpg?v=20220712073521);
+    background-position: center;
+}
+.welcome{
+    text-align: center;
+    color: white;
+}
+.first{
+    width: 100%;
+   height: 350px;
+   display: flex;
+   align-items: center;
+}
